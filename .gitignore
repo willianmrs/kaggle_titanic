@@ -102,3 +102,6 @@ ENV/
 
 #vscode
 .vscode
+
+# submition file
+sub.csv
